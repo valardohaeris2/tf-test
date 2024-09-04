@@ -1,1 +1,1 @@
-resource "random_pet" {}
+resource "random_pet" "thrones" {}
